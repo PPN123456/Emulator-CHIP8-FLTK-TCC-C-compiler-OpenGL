@@ -1,0 +1,4 @@
+W= 780
+H= 500
+Title= Chip8 Emulator FLTK
+FLTKScheme= gtk+
